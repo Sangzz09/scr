@@ -1,7 +1,7 @@
 {
   "name": "taixiu-luck8-ai",
-  "version": "2.2.0",
-  "description": "API dự đoán tài xỉu thông minh Luck8 - auto học, auto reset pattern 30 phiên",
+  "version": "4.0.0",
+  "description": "API phân tích cầu Luck8 tài xỉu + thống kê accuracy | dev @minhsangdangcap",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
